@@ -7,6 +7,8 @@ import { Component, input } from '@angular/core';
   templateUrl: './card.html',
 })
 export class Card {
+  
+
   title = input<string>('');
   body = input<string>('');
 }

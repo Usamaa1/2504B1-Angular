@@ -29,6 +29,11 @@ ng g c component-name
 npm i bootstrap
 ```
 
+## Install Angular Material 
+```bash
+ng add @angular/material
+```
+
 ## Set Execution Policy Command
 ```bash
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
